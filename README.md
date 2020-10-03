@@ -27,6 +27,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [JavaScript](javascript.js)
 - [Julia](julia.jl)
 - [Kotlin](kotlin.kt)
+- [Lisp](lisp.lsp)
 - [Lua](lua.lua)
 - [Nasm (x86)](nasm.asm)
 - [OCaml](ocaml.ml)
